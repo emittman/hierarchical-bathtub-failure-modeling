@@ -1,4 +1,4 @@
-#hierarchical-bathtub-failure-modeling
+# hierarchical-bathtub-failure-modeling
 - Contains code used for modeling and analyis related to https://www.tandfonline.com/doi/pdf/10.1080/00401706.2018.1518273
 - Implements a method for joint estimation of multiple lifetime distributions using the generalized limited failure population (GLFP) model.
 - The GLFP model is a five-parameter model that accommodates multiple failure modes, including early failures and wear-out failures.
